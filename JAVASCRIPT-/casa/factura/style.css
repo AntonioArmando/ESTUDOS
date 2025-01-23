@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-shadow: 2px 4px 1px #000000c5;
+}
+
+div.borda{
+    border: 2px solid;
+    margin: 3px;
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 3px #000000c5;
+}
+
+header{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 8px;
+    border-bottom-left-radius: 0PX;
+    border-bottom-right-radius: 0px;
+    margin-bottom: 5px;
+    box-shadow: 3px 3px 3px #000000d5;
+
+}
+
+p{
+    text-align: justify;
+    line-height: 20px;
+
+}
+
+table{
+    border-collapse: collapse;
+}
+th{
+    font-size: 100%;
+    margin-left: 2px;
+}
+
+th,td{
+    border: 1px solid;
+}
+td.FIM{
+    text-align: right;
+}
+
+thead{
+    font-size: 0.8m;
+}
+
+h3{
+    text-align: center;
+}
